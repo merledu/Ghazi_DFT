@@ -5,5 +5,4 @@
 | :exclamation: Important Note            |
 |-----------------------------------------|
 
-## Please fill in your project documentation in this README.md file 
 Ghazi_DFT is a core with gpios , uart spi interfaces.
